@@ -1,0 +1,31 @@
+{
+  "files": {
+    "static/js/0.fd6928c6.chunk.js": "/goit-react-hw-08-phonebook/static/js/0.fd6928c6.chunk.js",
+    "static/js/0.fd6928c6.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/0.fd6928c6.chunk.js.map",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.727855a7.chunk.js",
+    "main.js.map": "/goit-react-hw-08-phonebook/static/js/main.727855a7.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-08-phonebook/static/js/runtime-main.8105bdf7.js",
+    "runtime-main.js.map": "/goit-react-hw-08-phonebook/static/js/runtime-main.8105bdf7.js.map",
+    "static/js/3.267cad91.chunk.js": "/goit-react-hw-08-phonebook/static/js/3.267cad91.chunk.js",
+    "static/js/3.267cad91.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/3.267cad91.chunk.js.map",
+    "static/js/4.635a1fd0.chunk.js": "/goit-react-hw-08-phonebook/static/js/4.635a1fd0.chunk.js",
+    "static/js/4.635a1fd0.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/4.635a1fd0.chunk.js.map",
+    "static/js/5.a9560945.chunk.js": "/goit-react-hw-08-phonebook/static/js/5.a9560945.chunk.js",
+    "static/js/5.a9560945.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/5.a9560945.chunk.js.map",
+    "static/js/6.5bd50110.chunk.js": "/goit-react-hw-08-phonebook/static/js/6.5bd50110.chunk.js",
+    "static/js/6.5bd50110.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/6.5bd50110.chunk.js.map",
+    "static/js/7.b71e11bd.chunk.js": "/goit-react-hw-08-phonebook/static/js/7.b71e11bd.chunk.js",
+    "static/js/7.b71e11bd.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/7.b71e11bd.chunk.js.map",
+    "static/js/8.e7a19592.chunk.js": "/goit-react-hw-08-phonebook/static/js/8.e7a19592.chunk.js",
+    "static/js/8.e7a19592.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/8.e7a19592.chunk.js.map",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "precache-manifest.a72b8f8d3821c33e24a83be9ca74d5ae.js": "/goit-react-hw-08-phonebook/precache-manifest.a72b8f8d3821c33e24a83be9ca74d5ae.js",
+    "service-worker.js": "/goit-react-hw-08-phonebook/service-worker.js",
+    "static/js/3.267cad91.chunk.js.LICENSE.txt": "/goit-react-hw-08-phonebook/static/js/3.267cad91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8105bdf7.js",
+    "static/js/3.267cad91.chunk.js",
+    "static/js/main.727855a7.chunk.js"
+  ]
+}
